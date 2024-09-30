@@ -1,0 +1,25 @@
+.columny {
+    -ms-flex: 25%;
+    flex: 25%;
+    /* max-width: 25%; */
+    padding: 0 4px;
+    align-content: center;
+    margin-left: 300px;
+    margin-right: 200px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    margin-bottom: 1rem;
+    
+
+  }
+  .words h5{
+    font-size: 32px;
+  }
+
+  .words p{
+    font-size: 25px;
+  }
